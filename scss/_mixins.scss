@@ -1,0 +1,103 @@
+@import "./color-matrix";
+@import "./vars";
+
+@mixin button-style($default-bg, $hover-bg, $border) { //$color-bg, $color-hover, $text-color, $border-color
+  padding: 11px 25px;
+  border: 1px solid $border;
+  border-radius: 5px;
+  background: $default-bg;
+  cursor: pointer;
+  box-sizing: border-box;
+  outline: none;
+
+  @include text-style($smaller-font-size, 400);
+
+  &:active,
+  &:not([disabled]):hover {
+    background: $hover-bg;
+  }
+
+  &[disabled] {
+    opacity: 0.4;
+  }
+}
+
+@mixin paginator-style {
+  height: 45px;
+  width: 45px;
+  box-sizing: border-box;
+  border: 1px solid $primary;
+  border-radius: 5px;
+  background-color: $light;
+  position: relative;
+  cursor: pointer;
+  outline: none;
+
+  &:hover,
+  &:active {
+    box-shadow: 0 3px 10px 0 $shadow;
+  }
+}
+
+@mixin placeholder() {
+  max-width: 320px;
+  height: 45px;
+  padding: 10px;
+  border: 1px solid $default;
+  border-radius: 5px;
+  box-sizing: border-box;
+  outline: none;
+
+  &[placeholder] {
+    color: $main;
+
+    &:focus {
+      color: $main;
+    }
+  }
+
+  &:focus {
+    border: 1px solid $main;
+  }
+
+  &:invalid {
+    border: 1px solid $error;
+  }
+}
+
+@mixin select-style {
+  @include text-style($smaller-font-size, 400);
+
+  height: 45px;
+  width: 320px;
+  padding: 10px;
+  border: 1px solid $main;
+  border-radius: 5px;
+  background-color: $light;
+  box-sizing: border-box;
+  color: $main;
+}
+
+@mixin text-style($f-size, $f-weight) {
+  font-size: $f-size;
+  font-weight: $f-weight;
+}
+
+@mixin link-style($hover, $visited) {
+  text-decoration: none;
+  cursor: pointer;
+  position: relative;
+  color: $primary;
+
+  &:hover,
+  &:active,
+  &:focus {
+    text-decoration: none;
+    color: $hover;
+  }
+
+  &:visited {
+    text-decoration: none;
+    color: $visited;
+  }
+}

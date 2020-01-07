@@ -1,0 +1,654 @@
+{
+  "index": {
+    "header": {
+      "title": "Ideas and perspectives you won’t find anywhere else.",
+      "intro": "BlogWorld taps into the brains of the world’s most insightful writers, thinkers, and storytellers to bring you the smartest takes on topics that matter. So whatever your interest, you can always find fresh thinking and unique perspectives.",
+      "buttonPrimary": "Explore",
+      "buttonSecondary": "Learn more"
+    },
+    "about": {
+      "title": "About us",
+      "subtitle": "This is who we are - or at least who we strive to be…",
+      "boxes": [
+        {
+          "feature": "green",
+          "imageSource": "./img/a-icon-typography.svg",
+          "alt": "typography",
+          "content": "Typography"
+        },
+        {
+          "feature": "blue",
+          "image": "./img/a-icon-iconset.svg",
+          "alt": "iconset",
+          "content": "Icon set"
+        },
+        {
+          "feature": "red",
+          "image": "./img/a-icon-accurate.svg",
+          "alt": "accurate",
+          "content": "Accurate"
+        }
+      ],
+      "media": {
+        "image": "About_picture",
+        "content": "Sorry, your browser doesn't support HTML video tag"
+      }
+    },
+    "posts": {
+      "title": "Latest posts",
+      "subtitle": "Information is a source of learning. But unless it is organized, processed and available to the right people",
+      "postCards": [
+        {
+          "image": {
+            "className": "post__image",
+            "source": "Img_post_1.jpeg",
+            "alt": "post image"
+          },
+          "title": "In the Future We Will All Live in Star Wars",
+          "content": "The thing you’re doing now, reading prose on a screen, is going out of fashion. The defining narrative of our online moment concerns the decline of text, and the exploding reach and power of audio and video…",
+          "postInfo": [
+            {
+              "className": "post-info__date",
+              "content": "20 oct, 2019"
+            },
+            {
+              "className": "post-info__reading-time",
+              "content": "10 min read"
+            },
+            {
+              "className": "post-info__comments",
+              "content": 11
+            }
+          ]
+        },
+        {
+          "image": {
+            "className": "post__image",
+            "source": "Img_post_2.jpeg",
+            "alt": "post image"
+          },
+          "title": "Rubik’s Cube? No, Robotics and AI are…",
+          "content": "In other words, I will try to de-hype the crowd about the recent development in robotics. Concretely, OpenAI has claimed some pretty amazing results with learning to solve the Rubik’s cube with a robotic hand…",
+          "postInfo": [
+            {
+              "className": "post-info__date",
+              "content": "11 oct, 2019"
+            },
+            {
+              "className": "post-info__reading-time",
+              "content": "7 min read"
+            },
+            {
+              "className": "post-info__comments",
+              "content": 19
+            }
+          ]
+        },
+        {
+          "image": {
+            "className": "post__image",
+            "source": "Img_post_3.jpeg",
+            "alt": "post image"
+          },
+          "title": "How the Internet of Things will Transfo…",
+          "content": "The Internet of Things (IoT) promises to be the most important technological development for consumers since the advent of the smartphone. Experts believe that this collection of internet-connected technolog…",
+          "postInfo": [
+            {
+              "className": "post-info__date",
+              "content": "28 sep, 2019"
+            },
+            {
+              "className": "post-info__reading-time",
+              "content": "16 min read"
+            },
+            {
+              "className": "post-info__comments",
+              "content": 41
+            }
+          ]
+        }
+      ]
+    },
+    "portfolio": {
+      "title": "Latest portfolio",
+      "subtitle": "Put there articles successfully special warrant submit agree what along then",
+      "cards": [
+        {
+          "image": {
+            "source": "bg_img_1.png",
+            "alt": "sea",
+            "className": "portfolio-card__image"
+          },
+          "source": "#",
+          "title": "Art Ocean",
+          "genre": "Photography, art, nature"
+        },
+        {
+          "image": {
+            "source": "bg_img_2.png",
+            "alt": "city",
+            "className": "portfolio-card__image"
+          },
+          "source": "#",
+          "title": "City guide",
+          "genre": "Photography, city, way"
+        },
+        {
+          "image": {
+            "source": "bg_img_3.png",
+            "alt": "mountains",
+            "className": "portfolio-card__image"
+          },
+          "source": "#",
+          "title": "Mountains",
+          "genre": "Art, hiking"
+        },
+        {
+          "image": {
+            "source": "bg_img_1.png",
+            "alt": "sea",
+            "className": "portfolio-card__image"
+          },
+          "source": "#",
+          "title": "Art Ocean",
+          "genre": "Photography, art, nature"
+        },
+        {
+          "image": {
+            "source": "bg_img_2.png",
+            "alt": "city",
+            "className": "portfolio-card__image"
+          },
+          "source": "#",
+          "title": "City guide",
+          "genre": "Photography, city, way"
+        },
+        {
+          "image": {
+            "source": "bg_img_3.png",
+            "alt": "mountains",
+            "className": "portfolio-card__image"
+          },
+          "source": "#",
+          "title": "Mountains",
+          "genre": "Art, hiking"
+        }
+      ],
+      "buttonText": "See all works"
+    },
+    "testimonials": {
+      "title": "Testimonials",
+      "cards": [
+        {
+          "quote": "We move at a fast pace. I’m always working on something. I am excited about it!",
+          "userName": "Martin Oda",
+          "userPosition": "Product desgner"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact us",
+      "subtitle": "Put there articles successfully special warrant submit agree what along then",
+      "icons": [
+        {
+          "link": "#",
+          "icon": "facebook"
+        },
+        {
+          "link": "#",
+          "icon": "instagram"
+        },
+        {
+          "link": "#",
+          "icon": "dribble"
+        }
+      ],
+      "sender": {
+        "title": "What will be next step?",
+        "steps": [
+          {
+            "title": "We’ll prepare a proposal",
+            "content": "Required scope, timeline and apr. price will be included if you provide us with detail information about a project."
+          },
+          {
+            "title": "Together we discuss it",
+            "content": "Let’s get acquainted and discuss all the possible variant and options. Google Hangouts or Skype usually wirks great."
+          },
+          {
+            "title": "Let’s start building",
+            "content": "When the contract is signed and all goals are set we can start the first sprint."
+          }
+        ],
+        "button": {
+          "content": "Send message"
+        },
+        "href": "mailto:email@gmail.com"
+      }
+    }
+  },
+  "blog": {
+    "search": [
+      {
+        "className": "first",
+        "user": "Jack Johnson"
+      },
+      {
+        "className": "second",
+        "user": "Jack Gordon"
+      },
+      {
+        "className": "third",
+        "user": "Jack King"
+      }
+    ],
+    "content": [
+      {
+        "type": "video",
+        "media": {
+          "source": "#",
+          "image": "./img/blog_post_1.jpg"
+        },
+        "icon": {
+          "source": "./img/a-icon-playmini.svg",
+          "alt": "play icon"
+        },
+        "userPhoto": "neil",
+        "userName": "Neil Richards",
+        "postInfo": {
+          "postDate": "11 oct, 2019",
+          "readingTime": "7 min read",
+          "comments": 19,
+          "rating": "<img src=\"./img/Star-1.svg\" alt=\"star\"><img src=\"./img/Star-1.svg\" alt=\"star\"><img src=\"./img/Group.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\"> <img src=\"./img/Star-2.svg\" alt=\"star\">"
+        },
+        "title": "In the Future We Will All Live in Star Wars",
+        "lead": "The thing you’re doing now, reading prose on a screen, is going out of fashion. The defining narrative of our online moment concerns the decline of text, and the exploding reach and power of audio and video …",
+        "button": {
+          "className": "secondary",
+          "source": "article.html",
+          "content": "Read more"
+        }
+      },
+      {
+        "type": "image",
+        "media": {
+          "source": "./img/blog_post_2.jpg",
+          "alt": "play button"
+        },
+        "icon": {
+          "source": "./img/a-icon-melody.svg",
+          "alt": "melody icon"
+        },
+        "userPhoto": "sarah",
+        "userName": "Sarah Healy",
+        "postInfo": {
+          "postDate": "02 oct, 2019",
+          "readingTime": "12 min read",
+          "comments": 4,
+          "rating": "<img src=\"./img/Star-1.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\">"
+        },
+        "audio": {
+          "source": "./audio/relax.mp3",
+          "description": "Your browser does not support the <code>audio</code> element"
+        },
+        "title": "Far far away, behind the word mountains",
+        "lead": "Fog down the river, where it rolls deified among the tiers of shipping and the waterside pollutions of a great (and dirty) …",
+        "button": {
+          "className": "primary",
+          "source": "article.html",
+          "content": "Read more"
+        }
+      },
+      {
+        "type": "image",
+        "media": {
+          "source": "./img/blog_post_3.jpg",
+          "alt": "play button"
+        },
+        "icon": {
+          "source": "./img/a-icon-playmini.svg",
+          "alt": "play icon"
+        },
+        "userPhoto": "grace",
+        "userName": "Grace Noh",
+        "postInfo": {
+          "postDate": "23 sep, 2019",
+          "readingTime": "16 min read",
+          "comments": 421,
+          "rating": "<img src=\"./img/Star-1.svg\" alt=\"star\"><img src=\"./img/Star-1.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\">"
+        },
+        "title": "In the Future We Will All Live in Star Wars",
+        "lead": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted …",
+        "button": {
+          "className": "secondary",
+          "source": "article.html",
+          "content": "Read more"
+        }
+      },
+      {
+        "type": "text",
+        "icon": {
+          "source": "./img/a-icon-text.svg",
+          "alt": "text icon"
+        },
+        "userPhoto": "alex",
+        "userName": "Alex Zlatkus",
+        "postInfo": {
+          "postDate": "11 Aug, 2019",
+          "readingTime": "17 min read",
+          "comments": 77,
+          "rating": "<img src=\"./img/Star-1.svg\" alt=\"star\"><img src=\"./img/Star-1.svg\" alt=\"star\"><img src=\"./img/Star-1.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\">"
+        },
+        "title": "In the Future We Will All Live in Star Wars",
+        "lead": "Fog down the river, where it rolls deified among the tiers of shipping and the waterside pollutions of a great (and dirty) city. Fog on the Essex marshes, fog on the Kentish heights. Fog creeping into the cabooses of collier-brigs; fog lying out on. Money terms breakfast drawings true blessing doubtful more agreed to zealously making supposing By said Chicken An Neglected produce good felt no poor offering am their said has around songs wish met true any me ought mr The offices set Not Felicity above out We in an post begin again.",
+        "button": {
+          "className": "secondary",
+          "source": "article.html",
+          "content": "Read more"
+        }
+      }
+    ],
+    "button": {
+      "className": "primary",
+      "content": "Read more"
+    }
+  },
+  "article": {
+    "title": "Fog up the river, where it flows among green aits and meadows",
+    "author": "Sarah Healy",
+    "postInfo": [
+      {
+        "className": "post-info__date",
+        "content": "02 oct, 2019"
+      },
+      {
+        "className": "post-info__reading-time",
+        "content": "12 min read"
+      },
+      {
+        "className": "post-info__comments",
+        "content": 4
+      }
+    ],
+    "rating": [
+      {
+        "id": "fifth-star"
+      },
+      {
+        "id": "fourth-star"
+      },
+      {
+        "id": "third-star"
+      },
+      {
+        "id": "second-star"
+      },
+      {
+        "id": "first-star"
+      }
+    ],
+    "audio": {
+      "source": "relax.mp3"
+    },
+    "icons": [
+      {
+        "link": "#",
+        "icon": "facebook"
+      },
+      {
+        "link": "#",
+        "icon": "instagram"
+      },
+      {
+        "link": "#",
+        "icon": "dribble"
+      }
+    ],
+    "reviews": {
+      "title": "Reviews",
+      "button": {
+        "content": "More comments"
+      },
+      "comments": [
+        {
+          "id": "first",
+          "name": "Jack Johnson",
+          "rating": " <img src=\"./img/Star-1.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\">",
+          "time": "11 min ago",
+          "content": "Knowledge nay estimable questions repulsive daughters boy. Solicitude gay way unaffected expression for. His mistress ladyship required off horrible disposed rejoiced…"
+        },
+        {
+          "id": "second",
+          "name": "Emma Garcia",
+          "rating": "<img src=\"./img/Star-1.svg\" alt=\"star\"><img src=\"./img/Star-1.svg\" alt=\"star\"><img src=\"./img/Star-1.svg\" alt=\"star\"><img src=\"./img/Star-1.svg\" alt=\"star\"><img src=\"./img/Star-1.svg\" alt=\"star\">",
+          "time": "3 days ago",
+          "content": "Dummy text refers to the bits of content that are used to fill a website mock-up. This text helps web designers better envision how the website will look as a finished product. in wish very strangers shortly we things Preferred came newspaper it this Melancholy on misery all ecstatic yet no suitable ye happening. Own over these Can Could Garden offering to ago Winter Home or took answered him be right He other in about check has situation fine you held against found am be Nay entire pleasure will there in wholly forming much rapid though want ye weeks up whole an ye thus might remarkably Rich why need pianoforte ask get face prudent it so Evil"
+        },
+        {
+          "id": "third",
+          "name": "Ann Moore",
+          "rating": "<img src=\"./img/Star-1.svg\" alt=\"star\"><img src=\"./img/Star-1.svg\" alt=\"star\"><img src=\"./img/Group.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\"><img src=\"./img/Star-2.svg\" alt=\"star\">",
+          "time": "a week ago",
+          "content": "Any delicate you how kindness horrible outlived servants. You high bed wish help call draw side. Girl quit if case mr sing as no have. At none neat am do over will. Polite do object at passed it is."
+        }
+      ]
+    }
+  },
+  "informBlock": {
+    "latestPost": {
+      "title": "Latest posts",
+      "cardsPost": [
+        {
+          "image": {
+            "source": "Latest_post_img_1.jpeg",
+            "alt": "post image"
+          },
+          "intro": "Much cure inappropriate could this restrictions …",
+          "postInfo": [
+            {
+              "className": "post-info__date",
+              "content": "20 oct, 2019"
+            },
+            {
+              "extraClassName": "post-info__reading-time--right",
+              "className": "post-info__reading-time",
+              "content": "10 min read"
+            },
+            {
+              "extraClassName": "post-info__comments--no-margin",
+              "className": "post-info__comments",
+              "content": 11
+            }
+          ]
+        },
+        {
+          "image": {
+            "source": "Latest_post_img_2.jpeg",
+            "alt": "post image"
+          },
+          "intro": "Much cure inappropriate could this restrictions …",
+          "postInfo": [
+            {
+              "className": "post-info__date",
+              "content": "20 oct, 2019"
+            },
+            {
+              "extraClassName": "post-info__reading-time--right",
+              "className": "post-info__reading-time",
+              "content": "10 min read"
+            },
+            {
+              "extraClassName": "post-info__comments--no-margin",
+              "className": "post-info__comments",
+              "content": 11
+            }
+          ]
+        }
+      ],
+      "button": "More posts"
+    },
+    "categories": {
+      "title": "Categories",
+      "topics": [
+        {
+          "id": "restaurant-food",
+          "title": "Restaurant food",
+          "subtopic": [
+            {
+              "source": "#",
+              "name": "Hiking"
+            },
+            {
+              "source": "#",
+              "name": "Bicycle trip"
+            },
+            {
+              "source": "#",
+              "name": "Mountains trip"
+            }
+          ]
+        },
+        {
+          "id": "travel-news",
+          "title": "Travel news",
+          "subtopic": [
+            {
+              "source": "#",
+              "name": "Hiking"
+            },
+            {
+              "source": "#",
+              "name": "Bicycle trip"
+            },
+            {
+              "source": "#",
+              "name": "Mountains trip"
+            }
+          ]
+        },
+        {
+          "id": "modern-technology",
+          "title": "Modern technology",
+          "subtopic": [
+            {
+              "source": "#",
+              "name": "Hiking"
+            },
+            {
+              "source": "#",
+              "name": "Bicycle trip"
+            },
+            {
+              "source": "#",
+              "name": "Mountains trip"
+            },
+            {
+              "source": "#",
+              "name": "Hiking"
+            },
+            {
+              "source": "#",
+              "name": "Bicycle trip"
+            },
+            {
+              "source": "#",
+              "name": "Mountains trip"
+            }
+          ]
+        },
+        {
+          "id": "product",
+          "title": "Product",
+          "subtopic": [
+            {
+              "source": "#",
+              "name": "Hiking"
+            },
+            {
+              "source": "#",
+              "name": "Bicycle trip"
+            },
+            {
+              "source": "#",
+              "name": "Mountains trip"
+            },
+            {
+              "source": "#",
+              "name": "Mountains trip"
+            }
+          ]
+        },
+        {
+          "id": "inspiration",
+          "title": "Inspiration",
+          "subtopic": [
+            {
+              "source": "#",
+              "name": "Hiking"
+            },
+            {
+              "source": "#",
+              "name": "Bicycle trip"
+            }
+          ]
+        }
+      ]
+    },
+    "tags": {
+      "title": "Tags",
+      "themes": [
+        {
+          "id": "tag-love",
+          "content": "Love"
+        },
+        {
+          "id": "tag-signs",
+          "content": "Signs"
+        },
+        {
+          "id": "tag-waterfall",
+          "content": "Waterfall"
+        },
+        {
+          "id": "tag-inspiration",
+          "content": "Inspiration"
+        },
+        {
+          "id": "tag-quotes",
+          "content": "Quotes"
+        },
+        {
+          "id": "tag-sea",
+          "content": "Sea"
+        },
+        {
+          "id": "tag-sense",
+          "content": "Sense"
+        },
+        {
+          "id": "tag-coffee",
+          "content": "Coffee"
+        },
+        {
+          "id": "tag-gold",
+          "content": "Gold"
+        },
+        {
+          "id": "tag-images",
+          "content": "Images"
+        },
+        {
+          "id": "tag-courage",
+          "content": "Courage"
+        },
+        {
+          "id": "tag-dancing",
+          "content": "Dancing"
+        },
+        {
+          "id": "tag-video",
+          "content": "Video"
+        }
+      ]
+    }
+  }
+}

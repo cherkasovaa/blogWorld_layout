@@ -1,0 +1,6 @@
+@import '../scss/vars';
+
+$font-family-base: $main-font;
+$grid-gutter-width: 40px;
+// Large screen / wide desktop
+$container-large-desktop: (1160px + $grid-gutter-width );
